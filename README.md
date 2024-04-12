@@ -1,2 +1,3 @@
 # ve6gpo.github.io
-website
+
+Website for my technical projects.
